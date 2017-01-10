@@ -24,6 +24,17 @@ I would also recommend changing to the Xamarin Studio dark theme via:
 
     Xamarin Studio -> Preferences -> Visual Style -> User Interface Theme
 
+##Example Screenshots
+
+Android Studio in Darcula (with some personal modifications)
+![Android Studio in Darcula](http://i.imgur.com/r4V4qgV.png "Android Studio in Darcula")
+
+Xamarin Studio in Zarcula2
+![Xamarin Studio in Zarcula2](http://i.imgur.com/ngsPeDq.png "Xamarin Studio in Zarcula2")
+
+Xamarin Studio in Zarcula2
+![Xamarin Studio in Zarcula2](http://i.imgur.com/fe9g47E.png "Xamarin Studio in Zarcula2")
+
 ## Contributing
 
 If you find that I missed some bindings or syntax highlighting colors, feel free to fork, modify, and raise a pull request!
@@ -36,4 +47,4 @@ If you find that I missed some bindings or syntax highlighting colors, feel free
 
 ## Acknowledgements
 
-I found the original Darcula theming from [@jzeferino](https://gist.github.com/jzeferino) and added my own customizations and updates to colors based on the current Darcula iteration. You can find the original syntax highlighting file here on his github - https://gist.github.com/jzeferino/0f9d820d4d8913b1c7e2
+I found the original Darcula (Zarcula) theming from [@jzeferino](https://gist.github.com/jzeferino) and added my own customizations and updates to colors based on the current Darcula iteration. You can find the original syntax highlighting file here on his github - https://gist.github.com/jzeferino/0f9d820d4d8913b1c7e2
