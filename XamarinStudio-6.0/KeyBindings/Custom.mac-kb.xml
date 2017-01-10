@@ -1,0 +1,51 @@
+﻿<schemes version="1.0">
+  <scheme name="current">
+    <binding command="MonoDevelop.Ide.CodeFormatting.CodeFormattingCommands.FormatBuffer" shortcut="Alt+Meta+L" />
+    <binding command="MonoDevelop.Refactoring.RefactoryCommands.FindReferences" shortcut="Alt+F7" />
+    <binding command="MonoDevelop.Refactoring.RefactoryCommands.GotoDeclaration" shortcut="Meta+B F12" />
+    <binding command="MonoDevelop.Ide.Commands.ProjectCommands.BuildSolution" shortcut="Meta+F9" />
+    <binding command="MonoDevelop.Debugger.DebugCommands.EnableDisableBreakpoint" shortcut="" />
+    <binding command="MonoDevelop.Ide.Commands.ProjectCommands.Build" shortcut="Shift+Meta+F9" />
+    <binding command="MonoDevelop.Debugger.DebugCommands.ClearAllBreakpoints" shortcut="" />
+    <binding command="MonoDevelop.Debugger.DebugCommands.ShowBreakpoints" shortcut="Shift+Meta+F8" />
+    <binding command="MonoDevelop.Debugger.DebugCommands.Continue" shortcut="Alt+Meta+R" />
+    <binding command="MonoDevelop.Debugger.DebugCommands.StepOver" shortcut="Shift+Meta+O F8" />
+    <binding command="MonoDevelop.Debugger.DebugCommands.StepInto" shortcut="Shift+Meta+I F7" />
+    <binding command="MonoDevelop.Ide.Commands.ViewCommands.FocusCurrentDocument" shortcut="" />
+    <binding command="MonoDevelop.Ide.Commands.ViewCommands.ShowNext" shortcut="Alt+Meta+Down" />
+    <binding command="MonoDevelop.Ide.Commands.ViewCommands.ShowPrevious" shortcut="Alt+Meta+Up" />
+    <binding command="MonoDevelop.Debugger.DebugCommands.RunToCursor" shortcut="Alt+F9" />
+    <binding command="MonoDevelop.Debugger.DebugCommands.ExpressionEvaluator" shortcut="Alt+F8" />
+    <binding command="MonoDevelop.Debugger.DebugCommands.ToggleBreakpoint" shortcut="Meta+F8" />
+    <binding command="MonoDevelop.CSharp.Navigation.FindImplementingMembers" shortcut="Alt+Shift+Meta+B" />
+    <binding command="MonoDevelop.Ide.Commands.EditCommands.IndentSelection" shortcut="Tab" />
+    <binding command="MonoDevelop.Ide.Commands.EditCommands.UnIndentSelection" shortcut="Shift+Tab" />
+    <binding command="MonoDevelop.Ide.Commands.EditCommands.JoinWithNextLine" shortcut="Control+Shift+J" />
+    <binding command="MonoDevelop.Ide.Commands.EditCommands.Rename" shortcut="Shift+F6" />
+    <binding command="MonoDevelop.CodeGeneration.CodeGenerationCommands.ShowCodeGenerationWindow" shortcut="Meta+N" />
+    <binding command="MonoDevelop.Ide.Commands.FileCommands.NewFile" shortcut="Shift+Meta+N" />
+    <binding command="MonoDevelop.Ide.Commands.FileCommands.NewProject" shortcut="" />
+    <binding command="MonoDevelop.Ide.Commands.ProjectCommands.CleanSolution" shortcut="Meta+K" />
+    <binding command="MonoDevelop.Ide.Commands.ProjectCommands.Rebuild" shortcut="Shift+F9" />
+    <binding command="MonoDevelop.Ide.Commands.ProjectCommands.RebuildSolution" shortcut="Control+Meta+F9" />
+    <binding command="MonoDevelop.Ide.Commands.FileCommands.Save" shortcut="" />
+    <binding command="MonoDevelop.Ide.Commands.FileCommands.SaveAll" shortcut="Meta+S" />
+    <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.DuplicateLine" shortcut="Meta+D" />
+    <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.ShowParameterCompletionWindow" shortcut="Meta+P" />
+    <binding command="MonoDevelop.Ide.Commands.FileCommands.PrintDocument" shortcut="" />
+    <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.ShowCodeSurroundingsWindow" shortcut="Alt+Meta+T" />
+    <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.DeleteLine" shortcut="Meta+BackSpace" />
+    <binding command="MonoDevelop.Ide.Commands.EditCommands.Delete" shortcut="Shift+Meta+BackSpace" />
+    <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.ShowCodeTemplateWindow" shortcut="Meta+J" />
+    <binding command="MonoDevelop.Ide.Commands.SearchCommands.Replace" shortcut="Meta+R" />
+    <binding command="MonoDevelop.Ide.Commands.SearchCommands.ReplaceInFiles" shortcut="Shift+Meta+R" />
+    <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateBack" shortcut="Alt+Meta+Left" />
+    <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateForward" shortcut="Alt+Meta+Right" />
+    <binding command="MonoDevelop.Ide.Commands.ViewCommands.NextNotebook" shortcut="" />
+    <binding command="MonoDevelop.Ide.Commands.ViewCommands.PreviousNotebook" shortcut="" />
+    <binding command="MonoDevelop.CSharp.Refactoring.ExtractMethodCommand" shortcut="Alt+Meta+M" />
+    <binding command="MonoDevelop.CSharp.Refactoring.SortAndRemoveImportsCommand" shortcut="Control+Alt+O" />
+    <binding command="MonoDevelop.Ide.Commands.WindowCommands.NextDocument" shortcut="Control+Right Meta+F6" />
+    <binding command="MonoDevelop.Ide.Commands.WindowCommands.PrevDocument" shortcut="Control+Left Shift+Meta+F6" />
+  </scheme>
+</schemes>
