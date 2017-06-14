@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Policies>
+  <PolicySet name="User Default" id="UserDefault">
+    <TextStylePolicy inheritsSet="null" scope="application/xml" />
+    <XmlFormattingPolicy inheritsSet="Default" inheritsScope="application/xml" scope="application/xml">
+      <DefaultFormat>
+        <AttributesInNewLine>True</AttributesInNewLine>
+        <AlignAttributes>True</AlignAttributes>
+        <AlignAttributeValues>True</AlignAttributeValues>
+      </DefaultFormat>
+    </XmlFormattingPolicy>
+  </PolicySet>
+</Policies>
